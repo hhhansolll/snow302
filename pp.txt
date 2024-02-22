@@ -1,2 +1,15 @@
 텍스트 파일 수정
 
+##연습하기
+git add . (점은 전체)
+git add 파일명(원하는 파일만 수정) - ex] git add pp.txt
+
+git commit -m 'github에 파일 설명에 표시될 내용'
+
+git push origin main (업로드)
+
+## 집에서 파일 다운로드
+파일 만들기
+git clone 깃허브주소
+
+
